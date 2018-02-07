@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  checkhost.py
+#  nyctohost.py
 #  
-#  Copyright 2017 Unknown <Nycto> 
+#  Copyright 2017 Nycto 
+# This code was written by Nycto not the lil script kiddie ass bitch claiming he had wrote it known as " rafalbuj "
 #  
 import requests, re, sys, os;from time import *; from datetime import *;
 red = '\033[38;5;9m';white = '\033[38;5;7m';grey = '\033[38;5;247m';
@@ -94,7 +95,7 @@ banner = red + '''
 ██║╚██╗██║  ╚██╔╝  ██║        ██║   ██║   ██║╚════╝██╔══██║██║   ██║╚════██║   ██║╚════╝██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ 
 ██║ ╚████║   ██║   ╚██████╗   ██║   ╚██████╔╝      ██║  ██║╚██████╔╝███████║   ██║      ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗
 ╚═╝  ╚═══╝   ╚═╝    ╚═════╝   ╚═╝    ╚═════╝       ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
-                                                                                                                                '''
+         This code was written by Nycto not the lil script kiddie ass bitch claiming he had wrote it known as " rafalbuj "                                                                                                             '''
 class checkhost:
 	""" Class checkhost """	
 	def __init__ (self):
